@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Regular.ttf') format('ttf2'),
+         url('../fonts/FiraSans-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Bold.ttf') format('ttf'),
+         url('../fonts/FiraSans-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Italic.ttf') format('ttf'),
+         url('../fonts/FiraSans-Italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
