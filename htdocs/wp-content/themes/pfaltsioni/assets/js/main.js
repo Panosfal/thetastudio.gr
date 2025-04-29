@@ -1,0 +1,1 @@
+import{register}from"swiper/element/bundle";register(),document.addEventListener("DOMContentLoaded",()=>{new Swiper(".swiper-container",{loop:!0,autoplay:{delay:3e3},pagination:{el:".swiper-pagination",clickable:!0},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}})}),console.log("hello");
